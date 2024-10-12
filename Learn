@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Micro-Learning Platform</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>MicroLearn</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Experts</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Learn Micro Skills On-Demand</h2>
+        <p>Get expert guidance on specific skills, anytime, anywhere.</p>
+        <button class="cta-btn">Find an Expert</button>
+    </section>
+
+    <section class="features">
+        <h2>Why MicroLearn?</h2>
+        <div class="feature">
+            <h3>On-Demand Learning</h3>
+            <p>Connect with experts instantly for quick, focused learning sessions.</p>
+        </div>
+        <div class="feature">
+            <h3>Micro Sessions</h3>
+            <p>Learn specific skills in just 10-30 minutes, whenever you need.</p>
+        </div>
+        <div class="feature">
+            <h3>Wide Range of Skills</h3>
+            <p>From tech to cooking, yoga to leadership, learn something new every day.</p>
+        </div>
+    </section>
+
+    <section class="experts">
+        <h2>Our Top Experts</h2>
+        <div class="expert-list">
+            <div class="expert">
+                <img src="expert1.jpg" alt="Expert 1">
+                <h3>John Doe</h3>
+                <p>Technology & Coding Expert</p>
+            </div>
+            <div class="expert">
+                <img src="expert2.jpg" alt="Expert 2">
+                <h3>Jane Smith</h3>
+                <p>Cooking & Culinary Arts</p>
+            </div>
+            <div class="expert">
+                <img src="expert3.jpg" alt="Expert 3">
+                <h3>Robert Brown</h3>
+                <p>Yoga & Fitness Coach</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 MicroLearn. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
